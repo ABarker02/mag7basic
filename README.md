@@ -1,4 +1,4 @@
-# Basic analysis of the MAgnificant 7s Debt
+# Basic analysis of the Magnificant 7s Debt
 Project was a very basic full pipeline exercise in data collection, transformation, analysis, and visualization. 
 All data regarding the Mag 7 was found via SEC's EDGAR system. Manually went through each of the 7s quarterly reports to find necessary data. 
 Data was cleaned up using a variety of excel and power query functions, bless VLOOKUPs. 
